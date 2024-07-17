@@ -1,1 +1,7 @@
+# Configuración del sitio
+title: colnavas
+description: Una breve descripción de mi sitio web.
+baseurl: colnavas1
+url: https://areyker.github.io/colnavas1/
+theme: jekyll-theme-slate # cayman
 
